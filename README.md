@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Obed K. Quartey - [Github](https://github.com/flintstoneobed) / [Twitter](https://x.com/rilyaimedily)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Akua Serwaa Dankwah - [Github](https://github.com/jhuang10123) / [Twitter](https://x.com/missdankwah_)
 
 Second part of Airbnb: Joann Vuong
 ## License
